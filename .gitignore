@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+
+# NetBeans project files
+/nbproject/private/
+/build/
+/dist/
+/target/
+*.nbattrs
+
+# Logs
+*.log
+hs_err_pid*
+replay_pid*
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+*.zip
+
+# IDE-specific files (optional)
+.idea/
+*.iml
+.vscode/
