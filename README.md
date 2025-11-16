@@ -12,7 +12,8 @@ Visual Overview
 
 This is a screenshot of the application's main GUI, showing the input fields and the expense history table.
 
-<!-- 👆 IMPORTANT: Replace the 'https://www.google.com/url?sa=E&source=gmail&q=https://i.imgur.com/example-screenshot.png' with the actual direct URL to your uploaded screenshot on GitHub. -->
+<img width="975" height="663" alt="image" src="https://github.com/user-attachments/assets/ea79d404-49f4-45e1-86ee-f5a530df2434" />
+
 
 Features
 
