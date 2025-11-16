@@ -43,16 +43,16 @@ This is a screenshot of the application's main GUI, showing the input fields and
 
 This section details the steps needed to set up and run the Java Student Expense Tracker application.
 
-1.**Java Environment:** Ensure you have a Java Development Kit (JDK) installed (JDK 8 or later is recommended).
+ 1.  **Java Environment:** Ensure you have a Java Development Kit (JDK) installed (JDK 8 or later is recommended).
 
-2.**Clone Repository:**
+ 2.  **Clone Repository:**
 
-````git clone [https://github.com/Siph3sihle-Dyw1l1/student_tracker_system.git](https://github.com/Siph3sihle-Dyw1l1/student_tracker_system.git)````
+      ````git clone [https://github.com/Siph3sihle-Dyw1l1/student_tracker_system.git]  (https://github.com/Siph3sihle-Dyw1l1/student_tracker_system.git)````
 
 
-3.**Open in NetBeans:** Open the project directory in Apache NetBeans.
+ 3.  **Open in NetBeans:** Open the project directory in Apache NetBeans.
 
-4.**Run:** Compile and run the GururAssignmen2.java file to launch the main StudentTracker GUI.
+ 4.  **Run:** Compile and run the GururAssignmen2.java file to launch the main StudentTracker GUI.
 
 ## Contribution
 
